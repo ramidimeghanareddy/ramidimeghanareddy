@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<p align="center">
+    Ｕｎｓｔｏｐｐａｂｌｅ　ｌｅａｒｎｅｒ
+</p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ramidimeghanareddy&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" />
+</p>
 <!--
 **ramidimeghanareddy/ramidimeghanareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
